@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shimorinko
+- 👀 I’m interested in Discord.js, making website, php.
+- 🌱 I’m currently learning Javascript
